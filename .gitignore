@@ -5,3 +5,4 @@
 *.save
 Data_digits/
 Data_ImageNet/
+Data*/

@@ -5,8 +5,9 @@ import pickle
 from PIL import Image
 import sys, os
 
-picks = [210, 2] #huskey, german shepard
-        # ['75', '205'] # tiger, cheeta
+picks = [75, 205] # tiger, cheeta
+      # [210, 2] #huskey, german shepard
+      # ['75', '205'] # tiger, cheeta
       #[759, 985]:
       #[10, 75,54, 205, 189]:
       #[829]: 
