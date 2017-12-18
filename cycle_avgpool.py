@@ -37,7 +37,7 @@ class cycle_IN():
 
         self.im_size = 256
 
-        self.data_category = 'Painting_train'
+        self.data_category = 'Fruit_train'
         self.data_folder = 'Data_ImageNet/fast_data/' + self.data_category + '/'
         pair = ['trainA', 'trainB']
 
